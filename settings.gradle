@@ -1,0 +1,5 @@
+rootProject.name = 'JavaCoreHomeTask_1_4_2'
+include 'db'
+include 'api'
+include 'service'
+
